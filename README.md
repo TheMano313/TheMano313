@@ -6,9 +6,7 @@
   - Email: manoah.heinsch@gmail.com 
   - Steam: TheMano313
   - Discord: Manoah#3175
-- 🗺 Currently working on: Rimworld Mods (maybe also Stellaris in the Future)
-
-PS: Technically I am studying "Multi Media Technology" with the Major "Game Development and Mixed Reality" and the Minor "Game Design" in my 5th Semester. I often say that I study Game Development in Salzburg though (It's just way shorter).
+- 🗺 Currently working on: Implementing X in X 
 
 <!---
 TheMano313/TheMano313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
